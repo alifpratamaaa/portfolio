@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://i.ibb.co/MVF1jz7/Untitled-design-2.png"
+              src="https://images.unsplash.com/photo-1693126515185-fe9803b294cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5MzEyNjYwNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080"
               alt="Alif portrait"
               width="192"
               height="192"
