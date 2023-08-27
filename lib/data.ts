@@ -35,73 +35,73 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Graduated from college",
+    location: "Salemba, Jakarata",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated with a major in Information Technology. Besides that I also study while working.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2018-2022",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "IT Support Assistant",
+    location: "PIK, Jakarta",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as a IT Support Assistant for 1 years 9 months. My responsible is troubleshooting hardware and software, and also support the IT Project",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2020 - 2022",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Senior IT Support",
+    location: "PIK, Jakarta",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "I'm now a Senior IT Support with the same company. Besides, I support in the IT issues, I also made several projects. I'm also upskill to the DevOps.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2022 - present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Booking Meeting Room System With Laravel",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "This is my final project when I studied in university based on problem when i working in company",
+    tags: ["PHP", "CSS", "HTML", "Mysql", "Arduino", "C++"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "Asset Management System",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "I deploy local web application using the opensource program (Snipe-IT) for manage all asset in my company easier",
+    tags: ["PHP", "HTML", "CSS", "Mysql", "JS"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Helpdesk System",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "I deploy local web application use the opensource program to make it easier for users to find tutorials on using the application or to overcome common problems in the application",
+    tags: ["PHP", "HTML", "CSS", "Mysql"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
+  "Software Troubleshooting",
+  "Hardware Torubleshooting",
+  "Network Troubleshooting",
+  "Cisco Networking",
+  "Mikrotik",
+  "Office Administration",
+  "Linux Administration",
   "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Docker",
+  "AWS Cloud (Associate)",
+  "Alibaba Cloud (Associate)",
+  "Asset Management",
+  "Network Administration",
+  "Computer Maintenance",
+  "HTML",
+  "PHP",
+  "Mysql",
+  "Technical Support",
+  "Web Development",
 ] as const;

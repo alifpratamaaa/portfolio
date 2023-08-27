@@ -65,7 +65,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Alif.</span> I'm a{" "}
         <span className="font-bold">Senior IT Support</span> with{" "}
         <span className="font-bold">4 years</span> of experience. I enjoy
-        learn about <span className="italic">Linux and cloud</span>. My focus is{" "}
+        learn about <span className="italic">Linux and cloud computing</span>. My focus is{" "}
         <span className="underline">Troubleshooting hardware and software, and also Networking</span>.
       </motion.h1>
 
