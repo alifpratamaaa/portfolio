@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://drive.google.com/file/d/1ozubLZZNr02kxj6FnkObBCoDsWy3L7Qw/view"
+              src="https://i.ibb.co/MVF1jz7/Untitled-design-2.png"
               alt="Alif portrait"
               width="192"
               height="192"
