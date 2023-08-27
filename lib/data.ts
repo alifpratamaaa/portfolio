@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "2018-2022",
   },
   {
-    title: "IT Support Assistant",
+    title: "IT Support Assistant | PT. Vivo Mobile Indonesia",
     location: "PIK, Jakarta",
     description:
       "I worked as a IT Support Assistant for 1 years 9 months. My responsible is troubleshooting hardware and software, and also support the IT Project",
@@ -51,7 +51,7 @@ export const experiencesData = [
     date: "2020 - 2022",
   },
   {
-    title: "Senior IT Support",
+    title: "Senior IT Support | PT. Vivo Mobile Indonesia",
     location: "PIK, Jakarta",
     description:
       "I'm now a Senior IT Support with the same company. Besides, I support in the IT issues, I also made several projects. I'm also upskill to the DevOps.",
