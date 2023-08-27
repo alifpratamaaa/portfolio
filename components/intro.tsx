@@ -62,11 +62,11 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Ricardo.</span> I'm a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">8 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">Hello, I'm Alif.</span> I'm a{" "}
+        <span className="font-bold">Senior IT Support</span> with{" "}
+        <span className="font-bold">4 years</span> of experience. I enjoy
+        learn about <span className="italic">Linux and cloud</span>. My focus is{" "}
+        <span className="underline">Troubleshooting hardware and software, and also Networking</span>.
       </motion.h1>
 
       <motion.div
@@ -85,7 +85,7 @@ export default function Intro() {
             setTimeOfLastClick(Date.now());
           }}
         >
-          Contact me here ya{" "}
+          Contact me here {" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
