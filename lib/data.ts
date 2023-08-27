@@ -62,7 +62,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Booking Meeting Room System With Laravel",
+    title: "Meeting Room Reservation System",
     description:
       "This is my final project when I studied in university based on problem when i working in company",
     tags: ["PHP", "CSS", "HTML", "Mysql", "Arduino", "C++"],
